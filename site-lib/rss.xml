@@ -1,15 +1,6 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Mindmap]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian Mindmap</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 05 Feb 2026 00:20:25 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Feb 2026 00:20:23 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[erudition]]></title><description><![CDATA[
-noun Deep, extensive learning. synonym: knowledge.
-Learning; scholarship; knowledge gained by study or from books and instruction; particularly, learning in literature, history, antiquities, and languages, as distinct from knowledge of the mathematical and physical sciences.
-The act of instructing; the result of thorough instruction; the state of being erudite or learned; the acquisitions gained by extensive reading or study; particularly, learning in literature or criticism, as distinct from the sciences; scholarship.
-Profound knowledge, especially that based on learning and scholarship. From Latin eruditio&nbsp;("an instructing, learning, erudition"), from erudire&nbsp;("to instruct, educate, cultivate", literally "free from rudeness"), from e&nbsp;("out") + rudis&nbsp;("rude").The word "erudition" comes from the Latin eruditio, meaning "learning," which is a noun from the verb erudire, meaning "to instruct" or "to educate". This Latin verb is a compound of e- ("out") and rudis ("rude," "unskilled," or "rough"), so erudire literally meant "to free from rudeness". Therefore, erudition is the result of being "taken out of a rough or uncultivated state" through a process of education and learning.&nbsp;
-Latin roots: erudire = e- ("out") + rudis ("rough," "unskilled").
-Literal meaning: "To free from rudeness" or "to remove coarseness".
-Figurative meaning: The process of educating or instructing someone, leading them from a state of being "rough" or unlearned to one of polished and extensive knowledge.
-Modern usage: The noun "erudition" refers to the deep, scholarly knowledge that results from this process.
-]]></description><link>words/erudition.html</link><guid isPermaLink="false">words/erudition.md</guid><pubDate>Thu, 05 Feb 2026 00:20:08 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[This is the main page, because every site needs one.<a data-href="welcome" href="welcome.html" class="internal-link" target="_self" rel="noopener nofollow">welcome</a><br><a data-href="digital garden" href="digital-garden.html" class="internal-link" target="_self" rel="noopener nofollow">digital garden</a><br>
-<a data-href="inspirations" href=".html" class="internal-link" target="_self" rel="noopener nofollow">inspirations</a><br>
-<a data-href="guiding principles" href="guiding-principles.html" class="internal-link" target="_self" rel="noopener nofollow">guiding principles</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 05 Feb 2026 00:12:08 GMT</pubDate></item><item><title><![CDATA[guiding principles]]></title><description><![CDATA[Behind every action, activity, there seems to be a guiding principle or process, even if we don't realize or cannot articulate them. But being aware can provide a powerful framework.Disclaimer: this 'list' will change massively as we go on, as the new things we learn and discover using these guiding principles will recursively change the process itself. The list here will have the TLDR version with more details in the full articles.As a first, self recursive guiding principle let's have:
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Mindmap]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian Mindmap</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 05 Feb 2026 00:50:37 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Feb 2026 00:50:36 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[guiding principles]]></title><description><![CDATA[
+A guiding principle is a fundamental, core belief or value that directs an individual's or organization's decisions, behaviors, and actions. These principles serve as an internal compass, providing a framework for consistency, ethics, and strategic direction regardless of changing circumstances.
+Behind every action, activity, there seems to be a guiding principle or process, even if we don't realize or cannot articulate them. But being aware can provide a powerful framework.Disclaimer: this 'list' will change massively as we go on, as the new things we learn and discover using these guiding principles will recursively change the process itself. The list here will have the TLDR version with more details in the full articles.As a first, self recursive guiding principle let's have:
 <a data-href="Keep in mind, check and develop the guiding principles you have" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Keep in mind, check and develop the guiding principles you have</a>
 We have used words, English words to articulate, note and document this first guiding principle. If the words make sense to you, good, it means we made an intelligible sentence. Words and writing are a very very powerful tool.
 <br><a data-href="Inspect your base assumptions" href="guiding-principles/inspect-your-base-assumptions.html" class="internal-link" target="_self" rel="noopener nofollow">Inspect your base assumptions</a>
@@ -25,7 +16,59 @@ Of course this has to be elaborated much more to become robust. But let's start 
 <a data-tooltip-position="top" aria-label="words/welcome" data-href="words/welcome" href="words/welcome.html" class="internal-link" target="_self" rel="noopener nofollow">welcome</a><br>
 <a data-href="guide" href="words/guide.html" class="internal-link" target="_self" rel="noopener nofollow">guide</a><br>
 <a data-href="assume" href="words/assume.html" class="internal-link" target="_self" rel="noopener nofollow">assume</a><br>
-<a data-href="assumption" href="words/assumption.html" class="internal-link" target="_self" rel="noopener nofollow">assumption</a>]]></description><link>guiding-principles.html</link><guid isPermaLink="false">guiding principles.md</guid><pubDate>Thu, 05 Feb 2026 00:05:42 GMT</pubDate></item><item><title><![CDATA[assume]]></title><description><![CDATA[
+<a data-href="assumption" href="words/assumption.html" class="internal-link" target="_self" rel="noopener nofollow">assumption</a>]]></description><link>guiding-principles.html</link><guid isPermaLink="false">guiding principles.md</guid><pubDate>Thu, 05 Feb 2026 00:49:53 GMT</pubDate></item><item><title><![CDATA[inspirations]]></title><description><![CDATA[/ɪnspɪˈreɪʃ(ə)n/Origin: Middle English (in the sense ‘divine guidance’): via Old French from late Latin inspiratio(n- ), from the verb inspirare (see inspire).Definitions:
+the process of being mentally stimulated to do or feel something, especially to do something creative.
+the quality of being inspired.
+a sudden brilliant or timely idea.
+the drawing in of breath; inhalation.
+Without providing any specific context at the moment, here are some things I consider <a data-tooltip-position="top" aria-label="inspiration" data-href="inspiration" href=".html" class="internal-link" target="_self" rel="noopener nofollow">inspirational</a>.
+Nature
+Cosmos
+Flowers
+Beauty
+Common Sense
+Systems Theory
+Gaia
+Rhizome
+Structure Preserving Transformations
+Pattern Theory
+15 Properties (of space)
+Gestalt Christopher Alexander
+Isaac Asimov
+Jonathan Blow (Jon Blow)
+Brian Moriarty
+Stanislaw Lem
+Jeremy England
+Alan Watts <br>Christopher Alexander: Patterns in Architecture (1996) - <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=98LdFA-_zfA" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.youtube.com/watch?v=98LdFA-_zfA" target="_self">link</a>
+<br>Jonathan Blow: Preventing the Collapse of Civilization (2019) - <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=ZSRHeXYDLko" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.youtube.com/watch?v=ZSRHeXYDLko" target="_self">link</a>
+<br>Jonathan Blow: Video Games and the Human Condition (2010) - <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=SqFu5O-oPmU" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.youtube.com/watch?v=SqFu5O-oPmU" target="_self">link</a>
+Alan Watts: Do You Do It or Does It Do You?
+Alexander Rose: The Data of Long-Lived Institutions — Alexander Rose at The Interval
+Bret Viktor: Drawing Dynamic Visualizations
+Bret Viktor: Media for the Unthinkable
+Bret Viktor: The Humane Representation of Thought Christopher Alexander Notes on the Synthesis of Form
+A Pattern Language
+The Nature of Order: An Essay on the Art of Building and the Nature of the Universe The Phenomenon of Life
+The Process of Creating Life
+A Vision of a Living World
+The Luminous Ground Keith Houston The BOOK Robert Pirsig Zen and the Art of Motorcycle Maintenance Tao Te Ching
+Italo Calvino Invisible Cities Isaac Asimov Foundation Braid (2008)
+The Witness (2016)
+Outer Wilds (2019)
+Sekiro: Shadows Die Twice (2019)
+Elden Ring (2022)
+]]></description><link>inspirations.html</link><guid isPermaLink="false">inspirations.md</guid><pubDate>Thu, 05 Feb 2026 00:46:56 GMT</pubDate></item><item><title><![CDATA[erudition]]></title><description><![CDATA[
+noun Deep, extensive learning. synonym: knowledge.
+Learning; scholarship; knowledge gained by study or from books and instruction; particularly, learning in literature, history, antiquities, and languages, as distinct from knowledge of the mathematical and physical sciences.
+The act of instructing; the result of thorough instruction; the state of being erudite or learned; the acquisitions gained by extensive reading or study; particularly, learning in literature or criticism, as distinct from the sciences; scholarship.
+Profound knowledge, especially that based on learning and scholarship. From Latin eruditio&nbsp;("an instructing, learning, erudition"), from erudire&nbsp;("to instruct, educate, cultivate", literally "free from rudeness"), from e&nbsp;("out") + rudis&nbsp;("rude").The word "erudition" comes from the Latin eruditio, meaning "learning," which is a noun from the verb erudire, meaning "to instruct" or "to educate". This Latin verb is a compound of e- ("out") and rudis ("rude," "unskilled," or "rough"), so erudire literally meant "to free from rudeness". Therefore, erudition is the result of being "taken out of a rough or uncultivated state" through a process of education and learning.&nbsp;
+Latin roots: erudire = e- ("out") + rudis ("rough," "unskilled").
+Literal meaning: "To free from rudeness" or "to remove coarseness".
+Figurative meaning: The process of educating or instructing someone, leading them from a state of being "rough" or unlearned to one of polished and extensive knowledge.
+Modern usage: The noun "erudition" refers to the deep, scholarly knowledge that results from this process.
+]]></description><link>words/erudition.html</link><guid isPermaLink="false">words/erudition.md</guid><pubDate>Thu, 05 Feb 2026 00:20:08 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[This is the main page, because every site needs one.<a data-href="welcome" href="welcome.html" class="internal-link" target="_self" rel="noopener nofollow">welcome</a><br><a data-href="digital garden" href="digital-garden.html" class="internal-link" target="_self" rel="noopener nofollow">digital garden</a><br>
+<a data-href="inspirations" href=".html" class="internal-link" target="_self" rel="noopener nofollow">inspirations</a><br>
+<a data-href="guiding principles" href="guiding-principles.html" class="internal-link" target="_self" rel="noopener nofollow">guiding principles</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 05 Feb 2026 00:12:08 GMT</pubDate></item><item><title><![CDATA[assume]]></title><description><![CDATA[
 verb suppose to be the case, without proof.
 take or begin to have (power or responsibility).
 begin to have (a specified quality, appearance, or extent).
